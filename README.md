@@ -41,17 +41,6 @@
 **Intermedio:** Java, MySQL  
 **Herramientas:** Git, GitHub
 
----
-
-## 🎯 Objetivos para 2025
-
-- ✅ Terminar un curso de Machine Learning práctico  
-- ✅ Subir al menos 3 proyectos a GitHub  
-- 🔄 Participar en una comunidad de código abierta  
-- 🚀 Obtener mi primer trabajo o práctica en tecnología  
-
----
-
 ## 📊 Estadísticas de GitHub
 
 ![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manu1-a&show_icons=true&theme=tokyonight)
